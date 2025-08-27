@@ -38,7 +38,7 @@ A topologia foi criada no Cisco Packet Tracer e representa a infraestrutura bás
 
 - **Servidor FTP**: centraliza e organiza documentos jurídicos e administrativos.
 - **Impressora em Rede**: disponível para todos os usuários da LAN.
-- **DHCP**: pode ser adicionado futuramente para automatizar a entrega de IPs.
+- **DHCP**: Configurado para automatizar a entrega de IPs.
 - **NAT e Internet**: Configurado simulando integração externa.
 
 ---
