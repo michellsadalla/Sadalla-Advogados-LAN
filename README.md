@@ -54,7 +54,7 @@ A topologia foi criada no Cisco Packet Tracer e representa a infraestrutura bás
 
 ## 📂 Estrutura do Repositório
 
-- `rede_sadalla.pkt` → Arquivo do Cisco Packet Tracer com a topologia pronta.
+- `LAN Sadalla Advogados Associados.pkt` → Arquivo do Cisco Packet Tracer com a topologia pronta.
 - `README.md` → Documentação do projeto.
 - `imagens/` → Pasta com capturas de tela dos testes e diagramas.
   - `topologia.jpeg` → Imagem ilustrativa da rede.
