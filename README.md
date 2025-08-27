@@ -58,8 +58,9 @@ A topologia foi criada no Cisco Packet Tracer e representa a infraestrutura bás
 - `README.md` → Documentação do projeto.
 - `imagens/` → Pasta com capturas de tela dos testes e diagramas.
   - `topologia.jpeg` → Imagem ilustrativa da rede.
-  - `imagens/teste-LAPTOP-conectividade-e-FTP.jpeg` → Teste de ping (gateway e servidor FTP) e acesso FTP a partir do PC5.
+  - `imagens/teste-LAPTOP-conectividade-e-FTP.jpeg` → Teste de ping (gateway e servidor FTP) e acesso FTP a partir do LAPTOP.
   - `imagens/teste-PC5-conectividade-e-FTP.jpeg` → Teste de ping (gateway e servidor FTP) e acesso FTP a partir do PC5.
+  - `imagens/teste-PC6-conectividade-e-impressora.jpeg` → Teste de acesso a impressora remota a partir do PC6.
 
 ---
 
