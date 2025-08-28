@@ -1,5 +1,5 @@
 # 🏛️ Sadalla Advogados Associados — Projeto de Rede LAN
-Criei este projeto no **Cisco Packet Tracer** para simular a infraestrutura de rede de um escritório de advocacia fictício:  
+Projeto que fiz para simular a infraestrutura de rede de um escritório de advocacia fictício:  
 **Sadalla Advogados Associados**.
 
 ---
@@ -17,7 +17,7 @@ O escritório está em fase de expansão e precisou de uma **infraestrutura de r
 
 ## 🖥️ Topologia da Rede
 
-A topologia foi criada no Cisco Packet Tracer e representa a infraestrutura básica do escritório.
+A topologia foi implementada no Cisco Packet Tracer e representa a infraestrutura básica do escritório.
 
 ![Topologia da Rede](imagens/topologia.jpeg)
 
@@ -65,12 +65,13 @@ A topologia foi criada no Cisco Packet Tracer e representa a infraestrutura bás
 
 ## 🚀 Como abrir o projeto para testar a conectividade da Rede
 
-1. Instale o [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (versão **8.2 ou superior**).
+1. Instale o [Cisco Packet Tracer](https://www.netacad.com/pt/articles/news/download-cisco-packet-tracer?courseLang=pt-BR) (versão **8.2 ou superior**).
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
-   cd NOME-DO-REPO
+   git clone https://github.com/michellsadalla/Sadalla-Advogados-LAN.git
+   cd Sadalla-Advogados-LAN
    ```
+3. Abra o arquivo 'LAN Sadalla Advogados Associados.pkt' com o packet tracer para verificar configurações e testes de conectividade em tempo real.
 
 ---
 
