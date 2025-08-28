@@ -1,6 +1,5 @@
 # 🏛️ Sadalla Advogados Associados — Projeto de Rede LAN
-
-Este projeto foi desenvolvido no **Cisco Packet Tracer** para simular a infraestrutura de rede de um escritório de advocacia fictício:  
+Criei este projeto no **Cisco Packet Tracer** para simular a infraestrutura de rede de um escritório de advocacia fictício:  
 **Sadalla Advogados Associados**.
 
 ---
