@@ -82,7 +82,7 @@ Para validar a configuração da rede e garantir a comunicação entre os dispos
 ---
 
 
-### 🖥️ Teste no PC5
+### 🧑‍💻 Teste no PC5
 
 - ✅ Ping para o **Gateway** (`192.168.1.1`)
 - ✅ Ping para o **Servidor FTP** (`192.168.1.15`)
@@ -95,7 +95,7 @@ Para validar a configuração da rede e garantir a comunicação entre os dispos
 ---
 
 
-### 🖥️ Teste no LAPTOP
+### 🧑‍💻 Teste no LAPTOP
 
 - ✅ Ping para o **Gateway** (`192.168.1.1`)
 - ✅ Ping para o **Servidor FTP** (`192.168.1.15`)
@@ -108,7 +108,7 @@ Para validar a configuração da rede e garantir a comunicação entre os dispos
 ---
 
 
-### 🖥️ Teste de acesso a impressora remota
+### 🧑‍💻 Teste de acesso a impressora remota
 
 - ✅ Teste feito via ferramenta de simulação de tráfego no Packet Tracer
 
