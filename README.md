@@ -15,7 +15,7 @@ O escritório está em fase de expansão e precisou de uma **infraestrutura de r
 
 ---
 
-## 🖥️ Topologia da Rede
+## 🖧 Topologia da Rede
 
 A topologia foi implementada no Cisco Packet Tracer e representa a infraestrutura básica do escritório.
 
